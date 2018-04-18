@@ -1,0 +1,1 @@
+(define-package "clojure-mode" "5.6.1" "Major mode for Clojure code" '((emacs "24.4")) :commit "fdbdfb91e0a5731bf9a739b70c5f217c5d12ae6d" :keywords '("languages" "clojure" "clojurescript" "lisp") :url "http://github.com/clojure-emacs/clojure-mode")
